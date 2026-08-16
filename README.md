@@ -6,7 +6,7 @@ I help founders of growing SaaS and AI startups build impactful products with sm
 
 10+ years across product development, product design, and product management, primarily with startups. I work at the intersection of product strategy and hands-on building, which is why I write and ship in equal measure.
 
-Curious how I use AI, checkout [grimoire.esmeepeters.com](https://grimoire.esmeepeters.com)
+Curious how I use AI, checkout [grimoire.esmeepeters.com](https://grimoire.esmeepeters.com).
 
 ## 🚀 Devmore
 Devmore is a platform for founders building product with a small team. I help founders make product decisions and grow their product without overhead. Fractional Product Management support available on request.
