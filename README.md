@@ -16,7 +16,7 @@ Devmore is a platform for founders building product with a small team. I help fo
 ## 🧭 Founders Playbook
 The methods and tools I use myself and share with the founders I work with, packaged as a reusable playbook of agentic skills, so you can run them too.
 
-[esmeepeters/lists/founder-skills](https://github.com/esmeepeters/lists/founder-skills) 
+[esmeepeters/lists/founder-skills](https://github.com/stars/esmeepeters/lists/founder-skills)
 
 **Skills Marketplace**
 - [esmeepeters/product-skills](https://github.com/esmeepeters/product-skills) — Skills for product strategy, discovery, and decision-making.
