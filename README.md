@@ -1,5 +1,5 @@
 # Hi there, I'm Esmee Peters 👋
-**Tech Entrepreneur · Fractional Product Manager · Product Advisor**
+**Tech Entrepreneur · Fractional Product Lead · Product Advisor**
 
 
 I build my own SaaS products, and I help founders build theirs.
