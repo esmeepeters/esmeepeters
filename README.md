@@ -1,33 +1,39 @@
 # Hi there, I'm Esmee Peters 👋
-**Product Advisor · Fractional CPO · Founder**
+**Tech Entrepreneur · Fractional Product Manager · Product Advisor**
 
 
-I help founders of growing SaaS and AI startups build impactful products with small, autonomous teams.
+I build my own SaaS products, and I help founders build theirs.
 
-10+ years across product development, product design, and product management, primarily with startups. I work at the intersection of product strategy and hands-on building, which is why I write and ship in equal measure.
+More than 12 years across product development, product design, and product management, primarily within startups, gave me the judgment to know what’s worth building, and the skills to build it. 
 
 Curious how I use AI, checkout [grimoire.esmeepeters.com](https://grimoire.esmeepeters.com).
 
 ## 🚀 Devmore
-Devmore is a platform for founders building product with a small team. I help founders make product decisions and grow their product without overhead. Fractional Product Management support available on request.
+Devmore is my newsletter and community for solo founders building a SaaS. Every week I write about building the right product, building with AI and running it solo. Fractional Product Management support available on request.
 
-[devmore.co](https://devmore.co/) — Start by exploring recent articles
+[devmore.co](https://devmore.co/) - Start by exploring my articles
+
+## 🤖 The Founder Stack
+
+Ready to use AI agents for solo founders, so you can run the work of a full team without setting it all up yourself.
+
+[stack.devmore.co](https://stack.devmore.co/) - Join the waitlist
 
 ## 🧭 Founders Playbook
-The methods and tools I use myself and share with the founders I work with, packaged as a reusable playbook of agentic skills, so you can run them too.
+The methods and tools I use myself, packaged as a reusable playbook of agentic skills, so you can run them too.
 
 [esmeepeters/lists/founder-skills](https://github.com/stars/esmeepeters/lists/founder-skills)
 
 **Skills Marketplace**
-- [esmeepeters/product-skills](https://github.com/esmeepeters/product-skills) — Skills for product strategy, discovery, and decision-making.
-- [esmeepeters/development-skills](https://github.com/esmeepeters/development-skills) — Skills for front-end and full-stack development workflows.
-- [esmeepeters/design-skills](https://github.com/esmeepeters/design-skills) — Skills for design systems, UX copy, and design critique.
-- [esmeepeters/marketing-skills](https://github.com/esmeepeters/marketing-skills) — Skills for positioning, content strategy, and growth.
+- [esmeepeters/product-skills](https://github.com/esmeepeters/product-skills) - Skills for product strategy, discovery, and decision-making.
+- [esmeepeters/development-skills](https://github.com/esmeepeters/development-skills) - Skills for front-end and full-stack development workflows.
+- [esmeepeters/design-skills](https://github.com/esmeepeters/design-skills) - Skills for design systems, UX copy, and design critique.
+- [esmeepeters/marketing-skills](https://github.com/esmeepeters/marketing-skills) - Skills for positioning, content strategy, and growth.
 
 ## 🦉 Owly Post
-Owly Post reads through all your feeds and gives you the 2-minute version, an AI-curated email digest using your own LLM of choice. Self-hosted and free to use.
+Owly Post reads through all your feeds and gives you the 2-minute version, an AI-curated email digest using your own LLM of choice. Open source, self-hosted and free to use.
 
-[esmeepeters/owlypost](https://github.com/esmeepeters/owlypost)
+[esmeepeters/owlypost](https://github.com/esmeepeters/owlypost) - Run it yourself
 
 ## 📡 Connect with me
 [![Newsletter](https://img.shields.io/badge/Newsletter-devmore.co-FF6719)](https://devmore.co)
